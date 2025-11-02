@@ -1,0 +1,1 @@
+auto-judge boj 2239 main.cpp
